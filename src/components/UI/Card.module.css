@@ -1,0 +1,17 @@
+.card {
+    max-width: 70rem;
+    margin: 3rem auto;
+    background-color: white;
+    padding: 1rem;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    text-align: center;
+    font-size: 1.5rem;
+  }
+  .card table,tr,th,td{
+    border: 1px solid black;
+  }
+  .card table{
+    margin: auto;
+  }
+  
